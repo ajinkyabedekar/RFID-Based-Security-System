@@ -1,0 +1,23 @@
+  Revised: Saturday, November 11, 2017
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       November 11,2017      13:48:38	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C2	100 uF
+2	1	C3	0.1 uF
+3	1	D1	LED
+4	1	J1	CON2
+5	1	J2	CON6A
+6	1	L1	Coil
+7	1	R1	330 ohm
+8	1	SW1	SW TACT-SPST
+9	2	U1,U2	LM555
