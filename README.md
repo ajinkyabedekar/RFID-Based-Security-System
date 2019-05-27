@@ -1,11 +1,5 @@
 # RFID Security System
 
-Some useful links to deeply understand the project:
-
-    https://www.youtube.com/watch?v=CEEZfiAhaqk&list=PL803563859BF7ED8C&index=37
-
-    https://www.youtube.com/watch?v=QyfPWHr8nGg&list=PL803563859BF7ED8C&index=38
-
 The project was the fulfilment of the academic project of Digital Logic and Circuit course.
 
 The team members were:
@@ -61,3 +55,9 @@ Procedure followed by our team was:
 5. Once the code is uploaded, the project is ready to use.
 
 6. Finally, scan the RFID Tag and check that the door opens on successfully scanning the RFID and the LED glows up.
+
+Some useful links to deeply understand the development of Traffic Light Control System:
+
+    https://www.youtube.com/watch?v=CEEZfiAhaqk&list=PL803563859BF7ED8C&index=37
+
+    https://www.youtube.com/watch?v=QyfPWHr8nGg&list=PL803563859BF7ED8C&index=38
